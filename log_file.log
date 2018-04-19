@@ -1,0 +1,86 @@
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:34 - Transfer14724 $
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 4427 $ from foc to o
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 5573 o 14427
+2018-04-19 16:23:34 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 5573
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 14427
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 6858 $ from o to foc
+2018-04-19 16:23:34 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 12431 o 7569
+2018-04-19 16:23:36 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 7532 $ from o to foc
+2018-04-19 16:23:36 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 19963 o 37
+2018-04-19 16:23:36 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 13194 $ from foc to o
+2018-04-19 16:23:36 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 6769 o 13231
+2018-04-19 16:23:37 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 13994 $
+2018-04-19 16:23:37 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:37 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6769
+2018-04-19 16:23:37 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13231
+2018-04-19 16:23:37 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 5283 $ from foc to o
+2018-04-19 16:23:37 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 1486 o 18514
+2018-04-19 16:23:38 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 10291 $ from o to foc
+2018-04-19 16:23:38 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 11777 o 8223
+2018-04-19 16:23:39 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 7821 $ from o to foc
+2018-04-19 16:23:39 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 19598 o 402
+2018-04-19 16:23:39 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 12207 $ from foc to o
+2018-04-19 16:23:39 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 7391 o 12609
+2018-04-19 16:23:40 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 11493 $
+2018-04-19 16:23:40 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:40 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 7391
+2018-04-19 16:23:40 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 12609
+2018-04-19 16:23:40 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 3663 $ from foc to o
+2018-04-19 16:23:40 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 3728 o 16272
+2018-04-19 16:23:41 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 12100 $ from o to foc
+2018-04-19 16:23:41 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 15828 o 4172
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:34 - Transfer14504 $
+2018-04-19 16:23:42 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 15828
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 4172
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:34 - Transfer7353 $
+2018-04-19 16:23:42 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 15828
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 4172
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 650 $ from o to foc
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 16478 o 3522
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 9379 $ from foc to o
+2018-04-19 16:23:42 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 7099 o 12901
+2018-04-19 16:23:43 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 4309 $ from o to foc
+2018-04-19 16:23:43 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 11408 o 8592
+2018-04-19 16:23:44 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 2913 $ from foc to o
+2018-04-19 16:23:44 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 8495 o 11505
+2018-04-19 16:23:45 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 2416 $ from o to foc
+2018-04-19 16:23:45 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 10911 o 9089
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 14122 $
+2018-04-19 16:23:46 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 10911
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 9089
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:47 - Transfer 9815 $ from foc to o
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:48 - foc 1096 o 18904
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:38 - Transfer 5651 $ from o to foc
+2018-04-19 16:23:46 INFO  ru.academitschool.alaev.MoneyTransfer:39 - foc 6747 o 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 11717 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 7999 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 13105 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 11576 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 8119 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 11493 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:43 - Transfer 13127 $
+2018-04-19 16:23:48 WARN  ru.academitschool.alaev.MoneyTransfer:67 - Not enough money on the account foc
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:68 - Account foc = 6747
+2018-04-19 16:23:48 INFO  ru.academitschool.alaev.MoneyTransfer:69 - Account o = 13253
